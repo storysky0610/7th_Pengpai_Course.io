@@ -1,0 +1,36 @@
+* {
+    padding: 0px;
+    margin: 0px;
+    list-style: none;
+}
+
+.header {
+    display: block;
+    background-color: dodgerblue;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 30px;
+    text-align: center;
+    height: 100px;
+    line-height: 100px;
+    color: white;
+}
+
+.section {
+    display: block;
+    color: dodgerblue;
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 2% 5% 0% 5%;
+    box-shadow: 0 4px 4px rgba(0, 0, 0, 0.2);
+    font-size: 24px;
+
+}
+
+.section_box {
+
+
+    padding: 10px 5px;
+
+}
+p{
+    color: black;
+}
